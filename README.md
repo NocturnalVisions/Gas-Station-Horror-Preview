@@ -4,7 +4,7 @@ A first-person psychological horror game built in Unreal Engine 5.4.
 
 # YoutubeChannel
 https://www.youtube.com/@NocturnalVisions-8
-Videos showing mechanics, that are already implemented. Check it out, code/blueprints will be attached in the repositorium :).
+Videos showing mechanics, that are already implemented. Check it out, code/blueprints will be attached in the second, private repositorium :).
 
 # Portfolio - website
 
